@@ -7,7 +7,7 @@
 
 # Descrição
 Projeto feito para o desenvolvimento e aprendizado de métodos com Array usando JavaScript. Aprendendo e pondo em prática métodos importantes. 
-<br>Acesse o projeto aqui: 
+<br>Acesse o projeto aqui: https://alura-books-array-two.vercel.app/
 
 # Tecnologias utilizadas
 
